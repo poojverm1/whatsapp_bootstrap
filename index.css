@@ -1,0 +1,93 @@
+.root{
+	font-size:20px;
+}
+
+.navbar-text{
+	color: white;
+	
+}
+
+.nav-link{
+	color:white;
+}
+
+
+.glyphicon {
+    font-size: 15px;
+	color:lightgrey;
+	padding-left:40px;
+}
+
+.navbar-custom{
+	justify-content:flex-end;
+}
+.navbar{
+	background-color:darkolivegreen;
+margin-bottom:0%;
+}
+.message_body{
+	width:100%;
+}
+.main_message_receiver{
+	max-width:40%;
+	height:auto;
+}
+.reciever{
+	height:10%;
+	width:100%;
+	background-color:pink;
+	border-radius:10px 10px 0px 10px;
+	margin-left:6%;
+	padding-left:5%;
+}
+
+.main_message_sender{
+	max-width:40%;
+	height:auto;
+	margin-left:50%;
+}
+
+.sender{
+	float:right;
+	height:13%;
+	width:103%;
+	border-radius:10px 10px 0px 10px;
+	background-color:#dcf8c6;
+	padding-left:5%;
+}
+.row message{
+	width:100%;
+}
+
+.heading-name-m{
+	font-size:1.8rem;
+}
+.message-text{
+	height:100%;
+	width:100%;
+	padding-right:2%;
+}
+.message-time{
+	color:grey;
+}
+.form-control{
+	height:45px;
+}
+.row{
+	display:flex;
+}
+.footer{
+	height:auto;
+	width:auto;
+}
+.chat_name{
+	font-size:1.7rem;
+}
+
+.heading-menu{
+	
+	padding-top:1%;
+}
+.image-change #change_img:hover{
+	color:blue;
+}
